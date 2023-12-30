@@ -1,12 +1,12 @@
-# django_rest_framework_quickstart
+# django_rest_framework_tutorial
 
 
 # Getting Started
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone git@github.com/zaineb-damak/django_rest_framework_quickstart.git
-    $ cd django_rest_framework_quickstart
+    $ git clone git@github.com/zaineb-damak/django_rest_framework_tutorial.git
+    $ cd django_rest_framework_tutorial
     
 Activate the virtualenv for your project.
     
